@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/queuecat-pc/precache-manifest.5a153356f988cbd1b65c9e57bb87b9f7.js"
+  "/queuecat/precache-manifest.f10d0f6aeafa5ef4396a4538482c4383.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "queuecat-pc"});
